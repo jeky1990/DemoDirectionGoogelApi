@@ -1,0 +1,471 @@
+﻿{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJv8nBAxhO4DsRCib0iq9FRB0",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJtRtVqZNO4DsRqHMF-e2jlOk",
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 21.2139614,
+          "lng": 72.8279696
+        },
+        "southwest": {
+          "lat": 21.1643022,
+          "lng": 72.80160070000001
+        }
+      },
+      "copyrights": "Map data ©2019 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "8.8 km",
+            "value": 8775
+          },
+          "duration": {
+            "text": "21 mins",
+            "value": 1246
+          },
+          "end_address": "88, Prabhunagar 1, Keshav Park Society, Kubernagar, Katargam, Surat, Gujarat 395004, India",
+          "end_location": {
+            "lat": 21.2138803,
+            "lng": 72.82455879999999
+          },
+          "start_address": "Unnamed Road, S.K.Nagar Society-3, Majura, Gandhi Kutir, Surat, 395017, India",
+          "start_location": {
+            "lat": 21.1643022,
+            "lng": 72.8274387
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "94 m",
+                "value": 94
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 24
+              },
+              "end_location": {
+                "lat": 21.165143,
+                "lng": 72.82750159999999
+              },
+              "html_instructions": "Head <b>north</b>",
+              "polyline": {
+                "points": "{sd`Cobo{LQ?k@Em@A{@C"
+              },
+              "start_location": {
+                "lat": 21.1643022,
+                "lng": 72.8274387
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "30 m",
+                "value": 30
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 11
+              },
+              "end_location": {
+                "lat": 21.1651455,
+                "lng": 72.8277837
+              },
+              "html_instructions": "Turn <b>right</b> towards <b>120 Feet Bamroli Rd</b>/<b>Bamroli Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "cyd`C{bo{L@Y?WAEA?"
+              },
+              "start_location": {
+                "lat": 21.165143,
+                "lng": 72.82750159999999
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 235
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 48
+              },
+              "end_location": {
+                "lat": 21.1672397,
+                "lng": 72.82797819999999
+              },
+              "html_instructions": "Turn <b>left</b> towards <b>120 Feet Bamroli Rd</b>/<b>Bamroli Rd</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "eyd`Csdo{LACIAG?U?wAAw@A_BEe@A[AQ?MCUGOG"
+              },
+              "start_location": {
+                "lat": 21.1651455,
+                "lng": 72.8277837
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 574
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 89
+              },
+              "end_location": {
+                "lat": 21.1721675,
+                "lng": 72.8266606
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>120 Feet Bamroli Rd</b>/<b>Bamroli Rd</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div><div style=\"font-size:0.9em\">Go past the petrol station (on the left in 400&nbsp;m)</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "gfe`C{eo{LA@EHIHA@a@TE@k@TMDOF?@A@A@A@?@A?A@A@A?A?A@A?A?A?A?A?A?A?AAA?AAeAN{Bp@_@FoATOB{@Hi@@KB]DG?y@FUBsBJeADUBs@J"
+              },
+              "start_location": {
+                "lat": 21.1672397,
+                "lng": 72.82797819999999
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.0 km",
+                "value": 965
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 150
+              },
+              "end_location": {
+                "lat": 21.1804958,
+                "lng": 72.8242844
+              },
+              "html_instructions": "Continue straight to stay on <b>Bamroli Rd</b><div style=\"font-size:0.9em\">Pass by Unique Hospital (on the left)</div>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "aef`Cs}n{LkA?s@G_@A_@@Y@eAL{@JA?s@Hu@Jk@JYFe@L_Cj@{Bl@eCj@yA^qRhF"
+              },
+              "start_location": {
+                "lat": 21.1721675,
+                "lng": 72.8266606
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 310
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 48
+              },
+              "end_location": {
+                "lat": 21.1805498,
+                "lng": 72.8214653
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Jay Prakash Narayan Marg</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "cyg`Cwnn{LUVMLUPv@lL?RAVE^"
+              },
+              "start_location": {
+                "lat": 21.1804958,
+                "lng": 72.8242844
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "57 m",
+                "value": 57
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 8
+              },
+              "end_location": {
+                "lat": 21.1804776,
+                "lng": 72.8209165
+              },
+              "html_instructions": "<b>Jay Prakash Narayan Marg</b> turns slightly <b>left</b> and becomes <b>Ring Rd</b>",
+              "polyline": {
+                "points": "myg`Ce}m{LFv@?JDh@"
+              },
+              "start_location": {
+                "lat": 21.1805498,
+                "lng": 72.8214653
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.9 km",
+                "value": 903
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 98
+              },
+              "end_location": {
+                "lat": 21.1837129,
+                "lng": 72.81337309999999
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>Ring Rd</b><div style=\"font-size:0.9em\">Pass by ENT hospital (on the left in 700&nbsp;m)</div>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "_yg`Cwym{LVnC@t@Af@Cb@ARCTEZk@rCWlAYlA[rA_A`ECNGZGPENCJIPQZCBWZu@|@}AdBw@z@MNqBvBq@v@"
+              },
+              "start_location": {
+                "lat": 21.1804776,
+                "lng": 72.8209165
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 650
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 84
+              },
+              "end_location": {
+                "lat": 21.1877689,
+                "lng": 72.8089845
+              },
+              "html_instructions": "Continue straight to stay on <b>Ring Rd</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "emh`Cqjl{L{AjBSLqB|CoB|CCFCFqAxBINIJk@n@MJGFQNe@\\WTSPQLUNUNe@Vm@ZYLGBQB"
+              },
+              "start_location": {
+                "lat": 21.1837129,
+                "lng": 72.81337309999999
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.0 km",
+                "value": 994
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 117
+              },
+              "end_location": {
+                "lat": 21.1937855,
+                "lng": 72.8019825
+              },
+              "html_instructions": "Continue onto <b>Sardar Bridge</b>",
+              "polyline": {
+                "points": "qfi`Ccok{LKBIBOJ]^QROPgAlAgAjAOPIFmAlAk@l@_@`@_@^cAdAaAbAA@c@b@IJWXqBzBuBrB_@^OTSb@EF[j@EJsCzFQ\\a@p@"
+              },
+              "start_location": {
+                "lat": 21.1877689,
+                "lng": 72.8089845
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 819
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 124
+              },
+              "end_location": {
+                "lat": 21.1986651,
+                "lng": 72.8067691
+              },
+              "html_instructions": "At <b>Gujarat Gas Cir</b>/<b>ONGC Cir</b>/<b>Sardar Bridge Cir</b>, take the <b>5th</b> exit onto <b>Hazira Rd</b>/<b>Hazira - Adajan Rd</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div><div style=\"font-size:0.9em\">Pass by Ayutirth Ayurved and Panchkarma Hospital (on the left in 650&nbsp;m)</div>",
+              "maneuver": "roundabout-left",
+              "polyline": {
+                "points": "elj`Ckcj{L@B@B?B?D?B?B?BAB?@?@A@?@?@A?CHCDCBEBC@E@E@C@A?A?A?A?A??AA?A?AAC?AAAAA?AAAACACCCACCACAEACAE?C?E?C?A?A?A?A?A?ASc@ACKQQ_@iAyBgAsByBsDs@iAMQAAKKGEe@]WMcAi@QMiAy@[USOkBoAk@_@s@c@"
+              },
+              "start_location": {
+                "lat": 21.1937855,
+                "lng": 72.8019825
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 220
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 42
+              },
+              "end_location": {
+                "lat": 21.2000479,
+                "lng": 72.8079482
+              },
+              "html_instructions": "At <b>Adajan Cir</b>, take the <b>1st</b> exit onto <b>New Rander Rd</b><div style=\"font-size:0.9em\">Pass by Royal Life Services Pvt.Ltd. (on the left)</div>",
+              "maneuver": "roundabout-left",
+              "polyline": {
+                "points": "ujk`Ciak{LED?@A?A@A?C?A@A?CAAAA?AAAAAEEM?M@O@M@IwB_BYO[QWMUIUK"
+              },
+              "start_location": {
+                "lat": 21.1986651,
+                "lng": 72.8067691
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.1 km",
+                "value": 2104
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 201
+              },
+              "end_location": {
+                "lat": 21.2091525,
+                "lng": 72.8243592
+              },
+              "html_instructions": "Keep <b>right</b> to continue on <b>Chandra Shekhar Azad Bridge</b><div style=\"font-size:0.9em\">Pass by I.N.Tekrawala High School (on the left)</div>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "isk`Cuhk{Lq@QOCUEUE]E]EgAMkAOUCWCKAK?e@Ec@G]EOEYOQKOOEGGGO[QYKQEQwBoHuFmRwCiKaAaDgAyDsAsEEOEMQm@Qm@Mk@E]G]OgAMm@Ks@EUESc@eCEWEUEU[gBMo@[eA[_AYo@iCeD"
+              },
+              "start_location": {
+                "lat": 21.2000479,
+                "lng": 72.8079482
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 551
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 103
+              },
+              "end_location": {
+                "lat": 21.2136171,
+                "lng": 72.82231019999999
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Gopal Krishna Gokhale Marg</b>/<b>Ved Rd</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "elm`Cgon{LaCzAmAr@SLaAb@oAh@QJA@WTA?s@^WPm@^SFODKBE@U@sG`@"
+              },
+              "start_location": {
+                "lat": 21.2091525,
+                "lng": 72.8243592
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 95
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 53
+              },
+              "end_location": {
+                "lat": 21.2136163,
+                "lng": 72.8232239
+              },
+              "html_instructions": "Turn <b>right</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "chn`Cmbn{L?O@cBAaA"
+              },
+              "start_location": {
+                "lat": 21.2136171,
+                "lng": 72.82231019999999
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "38 m",
+                "value": 38
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 10
+              },
+              "end_location": {
+                "lat": 21.2139614,
+                "lng": 72.8232459
+              },
+              "html_instructions": "Turn <b>left</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "chn`Cchn{LcAE"
+              },
+              "start_location": {
+                "lat": 21.2136163,
+                "lng": 72.8232239
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 136
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 36
+              },
+              "end_location": {
+                "lat": 21.2138803,
+                "lng": 72.82455879999999
+              },
+              "html_instructions": "Turn <b>right</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "gjn`Cihn{LNeG"
+              },
+              "start_location": {
+                "lat": 21.2139614,
+                "lng": 72.8232459
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "{sd`Cobo{LgDK@q@CEKE]?oCCeCGm@Ac@KQEORc@Vq@V_@PIHM@GACAeAN{Bp@oB\\kAL{AJiG\\iANkA?s@G_A?_BNgD`@eAReDx@aGxAkUhGc@d@UPv@lLAj@E^Fv@Dt@VnC@t@EjAEh@q@nDq@zCgB`I[~@cBxBuGhHmCbDSLqB|CsBdDuA`CSZy@z@wAjAe@^k@^uBdA]FYNgCrCoDrDaHjHiCtCuCrCeAlByCfGs@nABPCTABQVSFE?OEWQGS?O?ESg@iBoDaEgHaA{AUS}@k@uAw@eBoA_C_B_BcAEFI@IAGIE[B]@IwB_Bu@a@m@WgA]yAUgEg@uAKaAMi@Ua@[MOa@u@Qc@gQim@gDkLc@{ASiAq@gEkBkKw@eCYo@iCeDoEnCuAp@aBt@YV{BpAu@RiHb@@sBAaAcAENeG"
+      },
+      "summary": "Chandra Shekhar Azad Bridge",
+      "warnings": [],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}
